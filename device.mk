@@ -193,6 +193,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.aospa.powershare-service
 
+# Remove Packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # QTI Components
 TARGET_COMMON_QTI_COMPONENTS := \
     adreno \
