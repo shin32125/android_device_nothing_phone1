@@ -7,7 +7,8 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
     Aperture \
     WellbeingPrebuilt \
-    Wellbeing
+    Wellbeing \
+    Youtube
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
