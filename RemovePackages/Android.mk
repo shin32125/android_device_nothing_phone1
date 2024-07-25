@@ -8,7 +8,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Aperture \
     WellbeingPrebuilt \
     Wellbeing \
-    Youtube
+    YouTube
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
